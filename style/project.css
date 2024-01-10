@@ -1,0 +1,229 @@
+.image-contriner{
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+    
+}
+
+
+
+
+.Img-text{
+    color: #FFFFFF;
+    font-size: 32px;
+    font-family: Merriweather;
+    font-weight: 400;
+    margin-top: 177px;
+    margin-left: 530px;
+    margin-right: 530px;
+    position: absolute;
+}
+
+.p2{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    position: absolute;
+    padding-top: 233px;
+    padding-bottom: 170px;
+    padding-left: 344px;
+    padding-right: 344px;
+    text-align: center;
+    
+}
+
+.sec-work{
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+}
+
+.OFF{
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.holiday{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.CATEGORIES{
+    color: #070211
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+
+}
+
+
+.img-happy-new-year{
+    width: 802.9px;
+    height: 500px;
+    margin-left: 520px;
+}
+
+.Welcome{
+    color:#FFFFFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px;
+margin-left: 126px;
+margin-bottom: 24px;
+}
+
+.Dolor-sit{
+    color:#FFFFFFCC;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-left: 126px;
+}
+    
+.Vectorrr-pic{
+    
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.Join{
+   text-decoration-color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 158px;
+}
+
+.portfolio{
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.GIFTS{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.Awesome{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.vel{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+}
+
+.shop {
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 24px;
+}
+
+.dress{
+    border-radius: 16px;
+    padding: 24px;
+}
+    
+.email{
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;   
+    background-color: #FF00000D;
+    width: 1320px;
+height: 616px;
+}
+
+.gmail{
+    padding-left: 600px;
+    padding-top: 80px;
+    
+}
+
+
+.gmail{
+    text-align: center;
+}
+
+.Subscribe{
+    text-align: center;
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.sed{
+    text-align: center;
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+}
+
+.submite{
+    width: 648px;
+    height: 72px;
+    flex-shrink: 0; 
+    border-radius: 50px;
+    text-align: left;
+    margin-left: 350px;
+    font-size: 20px;
+}
+
+b{
+    border-radius: 0px 50px 50px 0px;
+
+width: 210px;
+height: 72px;
+flex-shrink: 0;
+}
